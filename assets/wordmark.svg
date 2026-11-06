@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-label="yks">
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0cc"/><stop offset=".45" stop-color="#e9b44c"/><stop offset="1" stop-color="#a66b21"/></linearGradient>
+<linearGradient id="fade"><stop stop-color="#e9b44c" stop-opacity="0"/><stop offset=".5" stop-color="#e9b44c" stop-opacity=".7"/><stop offset="1" stop-color="#e9b44c" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+.halo{animation:breathe 5s ease-in-out infinite}.sweep{animation:sweep 7s linear infinite}.mark{stroke-dasharray:700;animation:draw 2.8s ease-out both}.spark{animation:glimmer 4s ease-in-out infinite alternate}
+@keyframes breathe{50%{opacity:.6;transform:rotate(180deg)}}@keyframes sweep{from{stroke-dashoffset:480}to{stroke-dashoffset:-480}}@keyframes draw{from{stroke-dashoffset:700}to{stroke-dashoffset:0}}@keyframes glimmer{from{opacity:.2}to{opacity:.9}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<path d="M90 100h240m300 0h240" stroke="url(#fade)"/>
+<g class="halo" opacity=".25" transform-origin="480px 94px" fill="none" stroke="#b88935"><path d="m480 12 82 82-82 82-82-82Z"/><circle cx="480" cy="94" r="66" stroke-dasharray="3 13"/></g>
+<g class="mark" fill="none" stroke="url(#gold)" stroke-width="11" stroke-linejoin="miter" stroke-linecap="square" transform="translate(372 44) skewX(-9)">
+<path d="M0 14v38l20 16h24M44 14v74l-20 20H4"/>
+<path d="M81 0v93M119 24 83 57l40 36"/>
+<path d="M205 27h-43l-15 15 51 30-15 21h-42"/>
+</g>
+<path class="sweep" d="M300 151h360" stroke="#ffe2a0" stroke-width="2" stroke-dasharray="32 448"/>
+<g fill="#e9b44c" class="spark"><path d="m302 94 5 6-5 6-5-6Zm356 0 5 6-5 6-5-6Z"/><circle cx="355" cy="46" r="1.5"/><circle cx="615" cy="144" r="1.5"/></g>
+</svg>

@@ -1,0 +1,1 @@
+League of Legends champion artwork belongs to Riot Games. Headers use AI-assisted cutouts and composition of King Beegar, God Staff Jax and Fright Night Trundle splash art from Riot Data Dragon. Animated ornaments and wordmark are custom SVGs. Icons: skillicons.dev. Contact badges: shields.io. Galaga: abozanona/pacman-contribution-graph.

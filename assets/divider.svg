@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100">
+<defs><linearGradient id="g"><stop stop-color="#b88935" stop-opacity="0"/><stop offset=".5" stop-color="#e9b44c"/><stop offset="1" stop-color="#b88935" stop-opacity="0"/></linearGradient></defs>
+<style>.core{animation:breathe 4s ease-in-out infinite}@keyframes breathe{50%{opacity:.4}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<path d="M0 45H370l10 10h48m104 0h48l10-10h370" stroke="url(#g)" stroke-width="2" fill="none"/>
+<path d="M80 55H350l10 10h63m114 0h63l10-10h270" stroke="#705323" opacity=".65" fill="none"/>
+<g class="core" fill="none" stroke="#e9b44c"><path d="m480 28 22 22-22 22-22-22Z"/><path d="m480 39 11 11-11 11-11-11Z" fill="#b88935" fill-opacity=".25"/><path d="m437 45 5 5-5 5-5-5Zm86 0 5 5-5 5-5-5Z"/></g>
+</svg>

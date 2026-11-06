@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="126" viewBox="0 0 960 126" role="img" aria-label="Cybersecurity — game development — EUW">
+<defs><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#211e18"/><stop offset="1" stop-color="#0d1117"/></linearGradient><linearGradient id="edge"><stop stop-color="#b88935" stop-opacity=".1"/><stop offset=".5" stop-color="#e9b44c"/><stop offset="1" stop-color="#b88935" stop-opacity=".1"/></linearGradient></defs>
+<style>.spark{animation:breathe 4s ease-in-out infinite}.two{animation-delay:1.3s}.three{animation-delay:2.6s}.scan{animation:scan 8s linear infinite}@keyframes breathe{50%{opacity:.4}}@keyframes scan{to{stroke-dashoffset:-880}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<path d="M24 18H936l20 20v50l-20 20H24L4 88V38Z" fill="url(#panel)" stroke="url(#edge)"/>
+<path d="M26 24h38M26 24v16m908-16h-38m38 0v16M26 102h38m-38 0V86m908 16h-38m38 0V86" stroke="#e9b44c" fill="none"/>
+<path class="scan" d="M40 108h880" stroke="#f9d98d" stroke-dasharray="50 830" opacity=".65"/>
+<g stroke="#e9b44c" stroke-width="1.7" fill="none">
+<g class="spark"><path d="m170 35 17 6v14q0 14-17 22-17-8-17-22V41Z"/><path d="m161 54 6 6 12-14"/></g>
+<g class="spark two"><path d="M454 45h52l10 25h-18l-7-8h-22l-7 8h-18Z"/><path d="M461 49v12m-6-6h12"/><circle cx="498" cy="52" r="1.5"/><circle cx="504" cy="58" r="1.5"/></g>
+<g class="spark three"><path d="m782 34 19 19-19 24-19-24Z"/><path d="M771 53h22m-11-12v24"/><path d="m760 43-7 10 7 10m44-20 7 10-7 10"/></g>
+</g>
+<g fill="#f5dfb4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2.2"><text x="170" y="94">CYBERSECURITY</text><text x="480" y="94">GAME DEVELOPMENT</text><text x="782" y="94">EUW</text></g>
+<g stroke="#765b2c" fill="none"><path d="M324 38v50M636 38v50"/><path d="m324 56 5 7-5 7-5-7Zm312 0 5 7-5 7-5-7Z" fill="#0d1117"/></g>
+</svg>

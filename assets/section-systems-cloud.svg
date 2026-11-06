@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="72" viewBox="0 0 960 72">
+<defs><linearGradient id="panel"><stop stop-color="#211e17"/><stop offset="1" stop-color="#11161e"/></linearGradient></defs>
+<path d="M0 15H940L960 35V58H0Z" fill="url(#panel)"/>
+<path d="M0 15H940L960 35M0 58H960" fill="none" stroke="#65502c"/>
+<path d="M0 15H5V58H0Z" fill="#e9b44c"/>
+<text x="24" y="43" fill="#b88935" font-family="monospace" font-size="14">06</text>
+<text x="66" y="44" fill="#f5dfb4" font-family="Segoe UI,Arial,sans-serif" font-weight="600" font-size="21" letter-spacing="1">SYSTEMS &amp; CLOUD</text>
+<path d="m886 32 7 7-7 7-7-7Zm24 0 7 7-7 7-7-7Z" stroke="#b88935" fill="none" opacity=".6"/>
+</svg>
