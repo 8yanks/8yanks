@@ -26,8 +26,6 @@ I'm also curious about AI, data science, cryptocurrency and crypto security. I s
 
 I read a lot about maths and philosophy. My maths skills are still developing, but I often find myself reading about topics well beyond what I can solve.
 
-**EUW · Trundle / Jax / Veigar**
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <img src="assets/skills-header.png" width="100%" alt="Languages and tools — code, infrastructure and creativity, with God Staff Jax" />
