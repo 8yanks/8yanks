@@ -14,6 +14,7 @@
 <p><strong>Away from the keyboard</strong></p>
 <p>I'm also curious about AI, data science, cryptocurrency and crypto security. I spend a lot of time reading online.</p>
 <p>I read a lot about maths and philosophy. My maths skills are still developing, but I often find myself reading about topics well beyond what I can solve.</p>
+<p><strong>How I work:</strong> I use AI-assisted workflows alongside curated asset libraries and Obsidian vaults to organize research, reuse resources and keep project context.</p>
 </td>
 </tr>
 </table>
@@ -41,6 +42,8 @@
 <p><strong>On the security side:</strong> Burp Suite and Nmap for practice; Root-Me, Hack The Box, TryHackMe and DVWA for challenges. At home: a BlackArch desktop, BadUSB devices, RTL-SDR v2 and RFID tools.</p>
 </blockquote>
 
+<p><strong>Also familiar with:</strong> BitSight, Bitdefender EDR/ASM, Grafana, Zabbix, EdgeNexus and NetBird — tools I explored during my SOC internship at ChapsVision.</p>
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <table>
@@ -50,7 +53,7 @@
 <h3>01 / At home</h3>
 <p>A low-end desktop repurposed into a dedicated BlackArch Linux lab for hands-on cybersecurity learning. My hardware experiments include BadUSB devices, RTL-SDR v2 radio reception, and RFID reading/writing.</p>
 <h3>02 / At ChapsVision</h3>
-<p>During my internship at ChapsVision, I explored Microsoft Azure, mainly as a learning experience, and spent time practicing security challenges. I completed DVWA's low and medium security levels with help from web research.</p>
+<p>My internship in ChapsVision's SOC introduced me to security monitoring, external risk ratings and cloud environments, including Microsoft Azure. I also practiced on DVWA, completing its low and medium security levels with help from web research.</p>
 <h3>03 / In development</h3>
 <ul>
 <li><strong>Roblox prototypes</strong> — exploring gameplay systems, progression and the first few minutes of a player's experience.</li>
