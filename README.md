@@ -64,9 +64,9 @@ Luau · Python · TypeScript · JavaScript · C++ · HTML/CSS · SQL
 
 Video editing and motion graphics, with an interest in 3D and music production.
 
-<img src="https://skillicons.dev/icons?i=ae,pr,blender,figma,obsidian&theme=dark&perline=5" alt="After Effects, Premiere Pro, Blender, Figma and Obsidian" />
+<img src="https://skillicons.dev/icons?i=ae,pr,blender,figma,obsidian&theme=dark&perline=5" alt="After Effects, Premiere Pro, Blender, Figma and Obsidian" /> <img src="assets/fl-studio.svg" width="48" height="48" alt="FL Studio" /> <img src="assets/obs-studio.svg" width="48" height="48" alt="OBS Studio" />
 
-FL Studio · OBS Studio · FFmpeg
+
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
