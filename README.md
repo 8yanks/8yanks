@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=2800&amp;pause=1200&amp;color=E9B44C&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=48&amp;lines=Cybersecurity+student+at+ESILV;Aspiring+red+teamer;Roblox+game+creator;Curious+about+AI%2C+maths+%26+philosophy" alt="Cybersecurity student at ESILV · Aspiring red teamer · Roblox game creator · Curious about AI, maths and philosophy" />
 </p>
-<p align="center">
-  <img src="assets/identity-strip.svg" width="100%" alt="Cybersecurity · Game development · EUW — animated gold crests" />
-</p>
+<p align="center">Cybersecurity · Game development · EUW</p>
 
 <img src="assets/about-header.png" width="100%" alt="About me — yks / cybersecurity and game development, with King Beegar" />
 
