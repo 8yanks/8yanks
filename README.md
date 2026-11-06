@@ -34,9 +34,9 @@ I read a lot about maths and philosophy. My maths skills are still developing, b
 
 <img src="assets/section-languages.svg" width="100%" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=lua,py,ts,js,cpp,html,css&theme=dark&perline=7" alt="Luau (Lua icon), Python, TypeScript, JavaScript, C++, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=lua,py,ts,js,cpp,html,css&theme=dark&perline=7" alt="Luau (Lua icon), Python, TypeScript, JavaScript, C++, HTML and CSS" /> <img src="assets/sql.svg" width="48" height="48" alt="SQL" />
 
-<img src="assets/language-labels.svg" width="790" alt="Luau · Python · TypeScript · JavaScript · C++ · HTML/CSS · SQL" />
+
 
 <sub>Languages I've used through coursework, personal projects and experiments. Still learning.</sub>
 
