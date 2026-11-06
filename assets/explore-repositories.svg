@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="58" viewBox="0 0 380 58" role="img" aria-label="Explore my repositories">
+<defs><linearGradient id="bg"><stop stop-color="#292317"/><stop offset="1" stop-color="#141820"/></linearGradient><linearGradient id="gold"><stop stop-color="#b88935"/><stop offset=".5" stop-color="#f1ce7c"/><stop offset="1" stop-color="#b88935"/></linearGradient></defs>
+<style>.arrow{animation:nudge 3s ease-in-out infinite}.shine{animation:shine 6s linear infinite}@keyframes nudge{50%{transform:translateX(4px)}}@keyframes shine{to{stroke-dashoffset:-680}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<path d="M13 2H365l13 13v28l-13 13H13L2 45V13Z" fill="url(#bg)" stroke="url(#gold)"/>
+<path class="shine" d="M14 56H365" stroke="#ffe3a2" stroke-width="1.5" stroke-dasharray="30 650"/>
+<g transform="translate(20 16)" stroke="#e9b44c" fill="none" stroke-width="1.6"><path d="M1 1h17v22H1ZM5 1v22m0-17h9M18 6h4v21H6v-4"/></g>
+<text x="61" y="34" fill="#f5dfb4" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1">EXPLORE MY REPOSITORIES</text>
+<path class="arrow" d="M337 29h19m-7-7 7 7-7 7" fill="none" stroke="#e9b44c" stroke-width="1.8"/>
+</svg>

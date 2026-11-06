@@ -86,7 +86,9 @@ During my internship at ChapsVision, I explored Microsoft Azure, mainly as a lea
 - **Coursework & web projects** — experimenting with applications, databases and connected devices.
 - **Currently learning** — offensive security and what makes a game worth coming back to.
 
-[Explore my repositories](https://github.com/8yanks?tab=repositories)
+<p align="center">
+  <a href="https://github.com/8yanks?tab=repositories"><img src="assets/explore-repositories.svg" width="380" alt="Explore my repositories" /></a>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
