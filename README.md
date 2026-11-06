@@ -36,7 +36,7 @@ I read a lot about maths and philosophy. My maths skills are still developing, b
 
 <img src="https://skillicons.dev/icons?i=lua,py,ts,js,cpp,html,css&theme=dark&perline=7" alt="Luau (Lua icon), Python, TypeScript, JavaScript, C++, HTML and CSS" />
 
-Luau · Python · TypeScript · JavaScript · C++ · HTML/CSS · SQL
+<img src="assets/language-labels.svg" width="790" alt="Luau · Python · TypeScript · JavaScript · C++ · HTML/CSS · SQL" />
 
 <sub>Languages I've used through coursework, personal projects and experiments. Still learning.</sub>
 
