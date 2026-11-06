@@ -22,8 +22,12 @@
 
 <table>
 <tr>
-<td width="60%" valign="top"><h2>Languages &amp; tools</h2>
-<p align="center">My toolkit — through coursework, experiments and personal projects. Still learning.</p>
+<td width="60%" valign="middle"><h2>Languages &amp; tools</h2>
+<p>My toolkit — through coursework, experiments and personal projects. Still learning.</p>
+</td>
+<td width="40%" align="center" valign="middle"><img src="assets/god-staff-jax.png" width="380" alt="God Staff Jax" /></td>
+</tr>
+</table>
 
 <table>
 <tr><td width="30%"><h3>Languages</h3>Scripts, applications &amp; data</td><td><img src="https://skillicons.dev/icons?i=lua,py,ts,js,cpp,html,css&amp;theme=dark&amp;perline=7" height="48" alt="Luau (Lua icon), Python, TypeScript, JavaScript, C++, HTML and CSS" /> <img src="assets/sql.svg" width="48" height="48" alt="SQL" /></td></tr>
@@ -36,10 +40,6 @@
 <blockquote>
 <p><strong>On the security side:</strong> Burp Suite and Nmap for practice; Root-Me, Hack The Box, TryHackMe and DVWA for challenges. At home: a BlackArch desktop, BadUSB devices, RTL-SDR v2 and RFID tools.</p>
 </blockquote>
-</td>
-<td width="40%" align="center" valign="middle"><img src="assets/god-staff-jax.png" width="380" alt="God Staff Jax" /></td>
-</tr>
-</table>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
