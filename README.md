@@ -6,7 +6,7 @@
 <td width="40%" align="center" valign="middle"><img src="assets/king-beegar.png" width="380" alt="King Beegar" /></td>
 <td width="60%" valign="top"><h2>About me</h2>
 <p><strong>Security is where I started.</strong></p>
-<p>I'm studying cybersecurity at ESILV (BIC), with an interest in offensive security and red teaming.</p>
+<p>I'm studying cybersecurity at ESILV, with an interest in offensive security and red teaming.</p>
 <p>I've been exploring security through hands-on challenges for around 6–7 years. I practice on Root-Me, Hack The Box and TryHackMe in my free time.</p>
 <p><strong>Building is how I learn.</strong></p>
 <p>Outside my studies, I enjoy building games in Roblox Studio—even when they never get released. I'm learning about core loops, onboarding, retention, monetization and marketing.</p>
