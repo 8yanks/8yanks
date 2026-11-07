@@ -86,7 +86,6 @@
 <img src="assets/contact-accent.svg" width="100%" alt="" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yanis-michaux/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c9d1d9" alt="LinkedIn" /></a>
   <a href="https://www.yks-vault.me/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=c9d1d9" alt="Portfolio" /></a>
   <a href="https://steamcommunity.com/id/8yanks/"><img src="https://img.shields.io/badge/Steam-161b22?style=for-the-badge&amp;logo=steam&amp;logoColor=c9d1d9" alt="Steam" /></a>
   <a href="https://discord.com/users/899894970163527700"><img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&amp;logo=discord&amp;logoColor=c9d1d9" alt="Discord" /></a>
