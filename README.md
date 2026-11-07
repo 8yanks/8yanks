@@ -39,7 +39,7 @@
 </table>
 
 <blockquote>
-<p><strong>On the security side:</strong> Burp Suite and Nmap for practice; Root-Me, Hack The Box, TryHackMe and DVWA for challenges. I also learn through a personal security lab.</p>
+<p><strong>On the security side:</strong> Burp Suite and Nmap for practice; Root-Me, Hack The Box, TryHackMe and DVWA for challenges. At home: a BlackArch desktop, BadUSB devices, RTL-SDR v2 and RFID tools.</p>
 </blockquote>
 
 <p><strong>Internship experience:</strong> security monitoring, risk assessment and cloud fundamentals in a SOC environment.</p>
@@ -51,7 +51,7 @@
 <td width="40%" align="center" valign="middle"><img src="assets/fright-night-trundle.png" width="380" alt="Fright Night Trundle" /></td>
 <td width="60%" valign="top"><h2>Projects &amp; experiments</h2>
 <h3>01 / At home</h3>
-<p>A dedicated home lab for hands-on cybersecurity learning and hardware experiments.</p>
+<p>A low-end desktop repurposed into a dedicated BlackArch Linux lab for hands-on cybersecurity learning. My hardware experiments include BadUSB devices, RTL-SDR v2 radio reception, and RFID reading/writing.</p>
 <h3>02 / Internship experience</h3>
 <p>My SOC internship introduced me to security monitoring, external risk assessment and cloud environments. I also practiced web security through hands-on lab exercises.</p>
 <h3>03 / In development</h3>
