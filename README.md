@@ -6,7 +6,7 @@
 <td width="40%" align="center" valign="middle"><img src="assets/king-beegar.png" width="380" alt="King Beegar" /></td>
 <td width="60%" valign="top"><h2>About me</h2>
 <p><strong>Security is where I started.</strong></p>
-<p>I'm studying cybersecurity at ESILV, with an interest in offensive security and red teaming.</p>
+<p>I'm studying cybersecurity, with an interest in offensive security and red teaming.</p>
 <p>I've been exploring security through hands-on challenges for around 6–7 years. I practice on Root-Me, Hack The Box and TryHackMe in my free time.</p>
 <p><strong>Building is how I learn.</strong></p>
 <p>Outside my studies, I enjoy building games in Roblox Studio—even when they never get released. I'm learning about core loops, onboarding, retention, monetization and marketing.</p>
@@ -39,10 +39,10 @@
 </table>
 
 <blockquote>
-<p><strong>On the security side:</strong> Burp Suite and Nmap for practice; Root-Me, Hack The Box, TryHackMe and DVWA for challenges. At home: a BlackArch desktop, BadUSB devices, RTL-SDR v2 and RFID tools.</p>
+<p><strong>On the security side:</strong> Burp Suite and Nmap for practice; Root-Me, Hack The Box, TryHackMe and DVWA for challenges. I also learn through a personal security lab.</p>
 </blockquote>
 
-<p><strong>Also familiar with:</strong> BitSight, Bitdefender EDR/ASM, Grafana, Zabbix, EdgeNexus and NetBird — tools I explored during my SOC internship at ChapsVision.</p>
+<p><strong>Internship experience:</strong> security monitoring, risk assessment and cloud fundamentals in a SOC environment.</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -51,9 +51,9 @@
 <td width="40%" align="center" valign="middle"><img src="assets/fright-night-trundle.png" width="380" alt="Fright Night Trundle" /></td>
 <td width="60%" valign="top"><h2>Projects &amp; experiments</h2>
 <h3>01 / At home</h3>
-<p>A low-end desktop repurposed into a dedicated BlackArch Linux lab for hands-on cybersecurity learning. My hardware experiments include BadUSB devices, RTL-SDR v2 radio reception, and RFID reading/writing.</p>
-<h3>02 / At ChapsVision</h3>
-<p>My internship in ChapsVision's SOC introduced me to security monitoring, external risk ratings and cloud environments, including Microsoft Azure. I also practiced on DVWA, completing its low and medium security levels with help from web research.</p>
+<p>A dedicated home lab for hands-on cybersecurity learning and hardware experiments.</p>
+<h3>02 / Internship experience</h3>
+<p>My SOC internship introduced me to security monitoring, external risk assessment and cloud environments. I also practiced web security through hands-on lab exercises.</p>
 <h3>03 / In development</h3>
 <ul>
 <li><strong>Roblox prototypes</strong> — exploring gameplay systems, progression and the first few minutes of a player's experience.</li>
@@ -88,7 +88,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yanis-michaux/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c9d1d9" alt="LinkedIn" /></a>
   <a href="https://www.yks-vault.me/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=c9d1d9" alt="Portfolio" /></a>
-  <a href="mailto:yanis.michaux08@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&amp;logo=gmail&amp;logoColor=c9d1d9" alt="Email" /></a>
   <a href="https://steamcommunity.com/id/8yanks/"><img src="https://img.shields.io/badge/Steam-161b22?style=for-the-badge&amp;logo=steam&amp;logoColor=c9d1d9" alt="Steam" /></a>
   <a href="https://discord.com/users/899894970163527700"><img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&amp;logo=discord&amp;logoColor=c9d1d9" alt="Discord" /></a>
 </p>
