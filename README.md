@@ -1,20 +1,21 @@
 <h1 align="center">yks</h1>
-<p align="center"><strong>Cybersecurity · Game development · EUW</strong></p>
+<p align="center"><strong>Cybersecurity student · Game developer · EUW</strong><br />
+I take things apart to understand them, then I build my own.</p>
 
 <table>
 <tr>
 <td width="40%" align="center" valign="middle"><img src="assets/king-beegar.png" width="380" alt="King Beegar" /></td>
 <td width="60%" valign="top"><h2>About me</h2>
-<p><strong>Security is where I started.</strong></p>
-<p>I'm studying cybersecurity, with an interest in offensive security and red teaming.</p>
-<p>I've been exploring security through hands-on challenges for around 6–7 years. I practice on Root-Me, Hack The Box and TryHackMe in my free time.</p>
-<p><strong>Building is how I learn.</strong></p>
-<p>Outside my studies, I enjoy building games in Roblox Studio—even when they never get released. I'm learning about core loops, onboarding, retention, monetization and marketing.</p>
-<p>I'd like to build a career in cybersecurity or game development. When I'm not working on a project, I'm usually playing Cyberpunk or League of Legends.</p>
-<p><strong>Away from the keyboard</strong></p>
-<p>I'm also curious about AI, data science, cryptocurrency and crypto security. I spend a lot of time reading online.</p>
-<p>I read a lot about maths and philosophy. My maths skills are still developing, but I often find myself reading about topics well beyond what I can solve.</p>
-<p><strong>How I work:</strong> I use AI-assisted workflows alongside curated asset libraries and Obsidian vaults to organize research, reuse resources and keep project context.</p>
+<p><strong>Security is where I started.</strong> I study cybersecurity and I'm aiming for offensive security and red teaming. I've been doing hands-on challenges for six or seven years on Root-Me, Hack The Box and TryHackMe, and I keep a home lab so I can break things safely.</p>
+<p><strong>Building is how I learn.</strong> Most evenings I'm in Roblox Studio working on combat systems, VFX, progression and the first five minutes of a player's experience. Most of my prototypes never ship. Each one still teaches me something about core loops, onboarding and why players come back.</p>
+<p><strong>Right now</strong></p>
+<ul>
+<li><strong>Learning:</strong> offensive security, one lab at a time.</li>
+<li><strong>Building:</strong> Roblox prototypes, Blender assets and small tools I need myself.</li>
+<li><strong>Studying:</strong> order flow and market structure, on paper before any real money.</li>
+<li><strong>Reading:</strong> maths and philosophy, often well beyond what I can solve yet.</li>
+</ul>
+<p><strong>How I work:</strong> AI-assisted workflows, Obsidian vaults for research and project context, and curated asset libraries I reuse across projects. When I'm not building, I'm playing Cyberpunk or League of Legends.</p>
 </td>
 </tr>
 </table>
@@ -23,12 +24,35 @@
 
 <table>
 <tr>
-<td width="60%" valign="middle"><h2>Languages &amp; tools</h2>
-<p>My toolkit — through coursework, experiments and personal projects. Still learning.</p>
+<td width="40%" align="center" valign="middle"><img src="assets/fright-night-trundle.png" width="380" alt="Fright Night Trundle" /></td>
+<td width="60%" valign="top"><h2>Selected work</h2>
+<p><a href="https://github.com/8yanks/riftline"><strong>riftline</strong></a>: a personal League of Legends assistant with match stats, a local overlay and draft-based rune and item suggestions. It never reads game memory or touches the client.</p>
+<p><a href="https://github.com/8yanks/tmp-etherea"><strong>etherea</strong></a>: 25 real-time GLSL effects for video and photo. Everything runs on your GPU in the browser and nothing is uploaded.</p>
+<p><a href="https://github.com/8yanks/capri-desktop"><strong>capri-desktop</strong></a>: a Windows desktop companion with hand-animated sprites, a Markdown memory vault and Codex or Claude conversations.</p>
+<p><a href="https://github.com/8yanks/smartParking"><strong>smartParking</strong></a>: a team IoT project. Three ESP32 boards with ultrasonic sensors and OLED panels report to a Next.js and Prisma dashboard.</p>
+<p><a href="https://github.com/8yanks/nexus"><strong>nexus</strong></a>: a multi-asset monitoring dashboard for market research. It runs in analyst mode only, with no live trading.</p>
+<p><a href="https://github.com/8yanks/scripts"><strong>scripts</strong></a>: Luau utilities for Roblox Studio.</p>
+<p align="center">
+  <a href="https://github.com/8yanks?tab=repositories"><img src="assets/explore-repositories.svg" width="380" alt="Explore my repositories" /></a>
+</p>
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<table>
+<tr>
+<td width="60%" valign="middle"><h2>Lab &amp; practice</h2>
+<p><strong>At home:</strong> an old desktop turned into a dedicated BlackArch Linux lab, plus BadUSB devices, an RTL-SDR v2 for radio reception and RFID reading and writing tools.</p>
+<p><strong>Practice:</strong> Burp Suite and Nmap, with challenges on Root-Me, Hack The Box, TryHackMe and DVWA.</p>
+<p><strong>Internship:</strong> security monitoring, external risk assessment and cloud fundamentals in a SOC.</p>
 </td>
 <td width="40%" align="center" valign="middle"><img src="assets/god-staff-jax.png" width="380" alt="God Staff Jax" /></td>
 </tr>
 </table>
+
+## Toolkit
 
 <table>
 <tr><td width="30%"><h3>Languages</h3>Scripts, applications &amp; data</td><td><img src="https://skillicons.dev/icons?i=lua,py,ts,js,cpp,html,css&amp;theme=dark&amp;perline=7" height="48" alt="Luau (Lua icon), Python, TypeScript, JavaScript, C++, HTML and CSS" /> <img src="assets/sql.svg" width="48" height="48" alt="SQL" /></td></tr>
@@ -36,35 +60,6 @@
 <tr><td><h3>Run &amp; deploy</h3>Systems &amp; cloud</td><td><img src="https://skillicons.dev/icons?i=arch,bash,docker,azure,cloudflare&amp;theme=dark" height="48" alt="Arch Linux, Bash, Docker, Azure and Cloudflare" /></td></tr>
 <tr><td><h3>Everyday tools</h3>Code &amp; collaboration</td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,nodejs&amp;theme=dark" height="48" alt="Git, GitHub, VS Code, Visual Studio and Node.js" /></td></tr>
 <tr><td><h3>Create &amp; edit</h3>Video, motion, 3D &amp; music</td><td><img src="https://skillicons.dev/icons?i=ae,pr,blender,figma,obsidian&amp;theme=dark" height="48" alt="After Effects, Premiere Pro, Blender, Figma and Obsidian" /> <img src="assets/fl-studio.svg" width="48" height="48" alt="FL Studio" /> <img src="assets/obs-studio.svg" width="48" height="48" alt="OBS Studio" /></td></tr>
-</table>
-
-<blockquote>
-<p><strong>On the security side:</strong> Burp Suite and Nmap for practice; Root-Me, Hack The Box, TryHackMe and DVWA for challenges. At home: a BlackArch desktop, BadUSB devices, RTL-SDR v2 and RFID tools.</p>
-</blockquote>
-
-<p><strong>Internship experience:</strong> security monitoring, risk assessment and cloud fundamentals in a SOC environment.</p>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<table>
-<tr>
-<td width="40%" align="center" valign="middle"><img src="assets/fright-night-trundle.png" width="380" alt="Fright Night Trundle" /></td>
-<td width="60%" valign="top"><h2>Projects &amp; experiments</h2>
-<h3>01 / At home</h3>
-<p>A low-end desktop repurposed into a dedicated BlackArch Linux lab for hands-on cybersecurity learning. My hardware experiments include BadUSB devices, RTL-SDR v2 radio reception, and RFID reading/writing.</p>
-<h3>02 / Internship experience</h3>
-<p>My SOC internship introduced me to security monitoring, external risk assessment and cloud environments. I also practiced web security through hands-on lab exercises.</p>
-<h3>03 / In development</h3>
-<ul>
-<li><strong>Roblox prototypes</strong> — exploring gameplay systems, progression and the first few minutes of a player's experience.</li>
-<li><strong>Coursework &amp; web projects</strong> — experimenting with applications, databases and connected devices.</li>
-<li><strong>Currently learning</strong> — offensive security and what makes a game worth coming back to.</li>
-</ul>
-<p align="center">
-  <a href="https://github.com/8yanks?tab=repositories"><img src="assets/explore-repositories.svg" width="380" alt="Explore my repositories" /></a>
-</p>
-</td>
-</tr>
 </table>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -92,5 +87,6 @@
 </p>
 
 <p align="right">
+  <sub><a href="ARTWORK.md">Artwork credits</a></sub>
   <img src="https://komarev.com/ghpvc/?username=8yanks&amp;label=views&amp;color=555555&amp;style=flat-square" height="16" alt="Profile views" />
 </p>
