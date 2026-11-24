@@ -6,8 +6,8 @@ I take things apart to understand them, then I build my own.</p>
 <tr>
 <td width="40%" align="center" valign="middle"><img src="assets/king-beegar.png" width="380" alt="King Beegar" /></td>
 <td width="60%" valign="top"><h2>About me</h2>
-<p><strong>Security is where I started.</strong> I study cybersecurity and I'm aiming for offensive security and red teaming. I've been doing hands-on challenges for six or seven years on Root-Me, Hack The Box and TryHackMe, and I keep a home lab so I can break things safely.</p>
-<p><strong>Building is how I learn.</strong> Most evenings I'm in Roblox Studio working on combat systems, VFX, progression and the first five minutes of a player's experience. Most of my prototypes never ship. Each one still teaches me something about core loops, onboarding and why players come back.</p>
+<p><strong>Security is where I started.</strong> I've been into computers for six or seven years, and today I study cybersecurity with offensive security and red teaming in mind. I practice on Root-Me, Hack The Box and TryHackMe, and I keep a home lab so I can break things safely.</p>
+<p><strong>Building is how I learn.</strong> Most evenings I'm in Roblox Studio working on combat systems, VFX and progression. Most of my prototypes never ship. Each one still teaches me something about core loops, onboarding and why players come back.</p>
 <p><strong>Right now</strong></p>
 <ul>
 <li><strong>Learning:</strong> offensive security, one lab at a time.</li>
